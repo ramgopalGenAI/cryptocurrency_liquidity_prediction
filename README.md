@@ -136,6 +136,4 @@ Once the setup is complete, you can:
 ## Contact
 
 For any queries or further information, please contact:
-Ram Gopal Gupta,
-E-mail : gopalram781@gmail.com,
-linkedIn : https://www.linkedin.com/in/ramgopagenai/
+Ram Gopal Gupta E-mail : gopalram781@gmail.com linkedIn : https://www.linkedin.com/in/ramgopagenai/
